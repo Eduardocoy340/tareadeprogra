@@ -1,0 +1,68 @@
+h2 {
+    color: darkcyan;  
+
+}
+
+h3 {
+    color: blue;
+}
+
+p {
+    color: purple;
+}
+
+.lista-de-gatos{
+    color: salmon;
+}
+
+.lista-de-gato{
+    color: salmon;
+}
+
+h2 {
+    font-family:'Orbitron', sans-serif;;
+}
+
+img{
+    width: 250px;
+    border-width: 5px;
+    border-color: blue;
+    border-style: groove;
+}
+
+#titulo-principal{
+    font-size: 30px;
+    color:teal;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+div{
+    background-color: mediumturquoise;
+}
+
+img{
+    margin: 25px;
+    padding: 15px 15px 15px 15px;
+    background-color: yellow;
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+}
+
+[type="radio"]{
+margin: 5px;
+}
+
+a[href="https://www.freecodecamp.org/espanol/"]{
+    color: green;
+    text-decoration: none;
+    font-weight: bold;
+
+}
+
+a[href="#"]{
+    color: green;
+    text-decoration: none;
+    font-weight: bold;
+    
+}
